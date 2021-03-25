@@ -1,4 +1,8 @@
-### Hi there 👋
+###  🐧🐧🐧 Hi there 👋 🐍🐍🐍
+
+I'm a Python developer who likes refactoring and writing code using good design principles and TDD. I've programmed in python for over 5 years for research and for fun. And have been programming professionally for about 2 years using multiple technologies including VueJS, ReactJS and Elixir with a specialization in Python backend development.
+
+- 🌱 I’m currently learning **VueJS** and **FastAPI**.
 
 <!--
 **rubensoleao/rubensoleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
