@@ -1,7 +1,6 @@
 ###  🐧🐧🐧 Hi there 👋 🐍🐍🐍
 
-- 🌱 I’m currently learning **VueJS** and **FastAPI**.
-
+Currently working with python monogoDB and VueJS! And finishing up my undergraduate thesis on parrallel programming with CUDA.
 <!--
 **rubensoleao/rubensoleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
