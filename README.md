@@ -1,6 +1,6 @@
 ###  🐧🐧🐧 Hi there 👋 🐍🐍🐍
 
-I am a fullstack developer, currently working with python + Django + [https://github.com/blb-ventures/strawberry-django-plus](strawberry-django-plus) on backend and React + React Native on frontend.
+I am a fullstack developer, currently working with python + Django + [strawberry-django-plus](https://github.com/blb-ventures/strawberry-django-plus) on backend and React + React Native on frontend.
 
 <!--
 **rubensoleao/rubensoleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
