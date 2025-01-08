@@ -1,13 +1,22 @@
-###  🐧🐧🐧 Hi there 👋 🐍🐍🐍
+### Hi there
 
-Currently working in Quebec, Canada. Born in Brazil but lived in the U.S. for over 6 years.
+Currently working in Montreal, QC, Canada. Born in Brazil and lived in the U.S. for over 6 years.
 
-I am a backend-focused full-stack developer. I’ve been programming sice I was 13 and for for the past 5 years I mostly
-worked with Python, TypeScript, React.JS and VueJS. But I enjoy exploring new languages, technologies, and
-methodologies.
+I am a full-stack developer with a lot of startup experience.
+I've learned programmed since I was 13 and never stopped since. 
 
-My enthusiasm for contributing extends beyond programming, encompassing collaboration with product design,
-stakeholders, frontend and backend development teams, always fostering effective teamwork
+Love collaboration with product design, stakeholders, and different development teems.
+Creating a product from inception to the final user is what drives me. 
+
+- 🔭 I’m currently working on new feature for highend clients
+- 🌱 I’m currently learning Neon + Drizzel
+- 👯 I’m looking to collaborate on any creative project
+- 🤔 I’m looking for help with creating a new creative project ( legit DM me ) 
+- 💬 Ask me about anything
+- 📫 How to reach me: www.rubens.dev.br
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a pet chameleon
+
 
 <!--
 **rubensoleao/rubensoleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
