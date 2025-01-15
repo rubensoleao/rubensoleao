@@ -13,7 +13,7 @@ Creating a product from inception to the final user is what drives me.
 - 👯 I’m looking to collaborate on any creative project
 - 🤔 I’m looking for help with creating a new creative project ( legit DM me ) 
 - 💬 Ask me about anything
-- 📫 How to reach me: www.rubens.dev.br
+- 📫 How to reach me: www.leao.dev.br
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a pet chameleon
 
