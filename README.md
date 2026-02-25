@@ -8,15 +8,12 @@ I've learned programmed since I was 13 and never stopped since.
 Love collaboration with product design, stakeholders, and different development teems.
 Creating a product from inception to the final user is what drives me. 
 
-- 🔭 I’m currently working on new feature for highend clients
-- 🌱 I’m currently learning Neon + Drizzel
+- I'm currently reading Designing data intensive applications by Martin K. 
 - 👯 I’m looking to collaborate on any creative project
-- 🤔 I’m looking for help with creating a new creative project ( legit DM me ) 
 - 💬 Ask me about anything
 - 📫 How to reach me: www.leao.dev.br
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a pet chameleon
-
+- ⚡ Fun fact: I have a pet chameleon, two cats and a dog
 
 <!--
 **rubensoleao/rubensoleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
